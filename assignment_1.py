@@ -19,3 +19,4 @@ name2 = input("Enter your second name: ")
 
 print(f"\nHello, {name1} {name2}! Welcome to the Python program.")
 
+C:\Users\hp\PycharmProjects\PythonProject

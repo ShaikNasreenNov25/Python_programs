@@ -66,6 +66,6 @@ python-assignments/
 ---
 
 ## Author
-- Name: Shaik Nasreen
+- Name: Shaik_Nasreen
 - GitHub: https://github.com/ShaikNasreenNov25/Python_programs
 

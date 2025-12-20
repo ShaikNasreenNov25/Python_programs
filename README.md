@@ -44,11 +44,13 @@ This task calculates the sum of numbers from 1 to 50 using a `for` loop.
 
 ## Project Structure
 ```text
-python-assignments/
+Python_programs/
 │
-├── assignment_1.py   # Basic math operations and greeting
-├── assignment_2.py   # Even/Odd check and sum using loop
-├── README.md         # Project documentation
+├── assignments/
+│   ├── assignment_1.py    # Basic math operations and greeting
+│   ├── assignment_2.py    # Even/Odd check and sum using loop
+│
+└── README.md              # Project documentation
 ```
 ## Technologies Used
 - Python 3

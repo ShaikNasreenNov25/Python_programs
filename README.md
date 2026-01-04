@@ -1,20 +1,25 @@
 # Python Assignments 🐍
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 
-This repository contains my Python practice assignments completed as part of my learning journey.
-
-- **Python Basics:** Core concepts such as input/output, operators, conditional statements, loops.
-- **Purpose:** To practice Python concepts, build projects, and develop programming skills.
+This repository contains Python practice assignments completed to strengthen core programming concepts, including loops, conditional statements, functions, file handling, dictionaries, and more. 
+- **Purpose:** To practice Python concepts, build projects, and develop programming skills
+- ## Features
+- Beginner-friendly Python programs
+- Covers core programming concepts
+- Includes clear input/output examples
 
 ---
 
 ## 📑 Table of Contents
 - [Assignment 1 - Basic Mathematical Operations and Greeting](#assignment-1---basic-mathematical-operations-and-greeting)  
 - [Assignment 2 - Even or Odd and Sum of Numbers](#assignment-2---even-or-odd-and-sum-of-numbers)  
+- [Assignment 3 - Factorial and Math Module](#assignment-3---factorial-and-math-module)  
+- [Assignment 4 - File Handling](#assignment-4---file-handling)  
+- [Assignment 5 - Dictionaries and List Slicing](#assignment-5---dictionaries-and-list-slicing)  
 - [Project Structure](#project-structure)  
 - [Technologies Used](#technologies-used)  
 - [How to Run the Code](#how-to-run-the-code)  
-- [Author](#author)  
+- [Author](#author)
 
 ---
 
@@ -28,7 +33,8 @@ This task takes **two numbers** from the user and performs:
 - Division  
 
 **Example**:
-```textEnter the first number: 10
+```text
+Enter the first number: 10
 Enter the first number: 18
 Enter the second number: 4
 
@@ -68,19 +74,96 @@ The sum of numbers from 1 to 50 is: 1275
 
 ```
 ---
+## Assignment 3 - Factorial and Math Module
+### Task 1: Factorial using Recursion
+This task calculates the factorial of a given number.
+
+**Example:**
+```text
+Enter a number: 5
+Factorial of 5 is: 120
+
+```
+---
+### Task 2: Using Python Math Module
+This task demonstrates the use of Python’s math module by calculating square root, logarithm, and sine of a number.
+
+**Example:**
+```text
+Enter a number: 25
+Square root: 5.0
+Logarithm: 3.2188758248682006
+Sine: -0.13235175009777303
+ ```
+---
+## Assignment 4 - File Handling
+### Task 1: Read a File and Handle Errors
+This task reads a file (sample.txt) if it exists, otherwise prints an error.
+
+**Example:**
+```text
+Reading file content:
+Line 1 : This is a sample text file.
+Line 2 : It contains multiple lines.
+
+```
+---
+### Task 2: Write and Append Data to a File
+This task writes user input to a file (output.txt) and allows appending additional data.
+
+**Example**
+```text
+
+Enter text to write to the file: Hello, Python!
+Data successfully written to output.txt.
+
+Enter additional text to append: Learning file handling in python
+Data successfully appended.
+
+Final content of output.txt: 
+Hello, Python!
+Learning file handling in python
+
+```
+---
+
+## Assignment 5 - Dictionaries and List Slicing
+### Task 1: Creating a Dictionary of Student Marks
+This task demonstrates accessing dictionary values using user input.
+
+**Example:**
+```text
+Enter the student's name: Alice
+Alice's marks: 94
+
+```
+### Task 2: Demonstrate List Slicing
+This task extracts the first five elements of a list and reverses them.
+
+**Example:**
+```text
+Original list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Extracted first five elements: [1, 2, 3, 4, 5]
+Reversed extracted element: [5, 4, 3, 2, 1]
+```
+---
 ## Project Structure
 ```text
 Python_programs/
 │
 ├── assignments/
-│ ├── assignment_1.py # Basic math operations and greeting
-│ ├── assignment_2.py # Even/Odd check and sum using loop
+│   ├── assignment_1.py
+│   ├── assignment_2.py
+│   ├── assignment_3.py
+│   ├── assignment_4.py
+│   └── assignment_5.py
 │
-└── README.md # Project documentation
+└── README.md
+
 ```
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used  
 - Python 3  
 - PyCharm IDE  
 - GitHub  
@@ -98,4 +181,3 @@ Python_programs/
 ## Author
 - **Name:** Shaik Nasreen  
 - **GitHub:** [https://github.com/ShaikNasreenNov25/Python_programs](https://github.com/ShaikNasreenNov25/Python_programs)
-

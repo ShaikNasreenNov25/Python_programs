@@ -3,7 +3,8 @@
 
 This repository contains Python practice assignments completed to strengthen core programming concepts, including loops, conditional statements, functions, file handling, dictionaries, and more. 
 - **Purpose:** To practice Python concepts, build projects, and develop programming skills
-- ## Features
+
+## Features
 - Beginner-friendly Python programs
 - Covers core programming concepts
 - Includes clear input/output examples
@@ -34,7 +35,6 @@ This task takes **two numbers** from the user and performs:
 
 **Example**:
 ```text
-Enter the first number: 10
 Enter the first number: 18
 Enter the second number: 4
 
@@ -103,7 +103,7 @@ Sine: -0.13235175009777303
 ---
 ## Assignment 4 - File Handling
 ### Task 1: Read a File and Handle Errors
-This task reads a file (sample.txt) if it exists; otherwise, it prints an error message.
+This task reads a file (`sample.txt`) if it exists; otherwise, it prints an error message.
 
 **Example:**
 ```text
@@ -114,7 +114,7 @@ Line 2 : It contains multiple lines.
 ```
 ---
 ### Task 2: Write and Append Data to a File
-This task writes user input to a file (output.txt) and allows appending additional data.
+This task writes user input to a file (`output.txt`) and allows appending additional data.
 
 **Example**
 ```text
@@ -122,12 +122,12 @@ This task writes user input to a file (output.txt) and allows appending addition
 Enter text to write to the file: Hello, Python!
 Data successfully written to output.txt.
 
-Enter additional text to append: Learning file handling in python
+Enter additional text to append: Learning file handling in Python
 Data successfully appended.
 
 Final content of output.txt: 
 Hello, Python!
-Learning file handling in python
+Learning file handling in Python
 
 ```
 ---

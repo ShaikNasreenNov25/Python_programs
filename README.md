@@ -76,7 +76,7 @@ The sum of numbers from 1 to 50 is: 1275
 ---
 ## Assignment 3 - Factorial and Math Module
 ### Task 1: Factorial using Recursion
-This task calculates the factorial of a given number.
+This task demonstrates how to calculate the factorial of a given number using a recursive function.
 
 **Example:**
 ```text
@@ -86,7 +86,12 @@ Factorial of 5 is: 120
 ```
 ---
 ### Task 2: Using Python Math Module
-This task demonstrates the use of Python’s math module by calculating square root, logarithm, and sine of a number.
+This task demonstrates the use of Python’s `math` module by performing the following calculations:
+
+- Square root
+- Logarithm
+- Sine of a number
+
 
 **Example:**
 ```text
@@ -98,7 +103,7 @@ Sine: -0.13235175009777303
 ---
 ## Assignment 4 - File Handling
 ### Task 1: Read a File and Handle Errors
-This task reads a file (sample.txt) if it exists, otherwise prints an error.
+This task reads a file (sample.txt) if it exists; otherwise, it prints an error message.
 
 **Example:**
 ```text
@@ -138,7 +143,7 @@ Alice's marks: 94
 
 ```
 ### Task 2: Demonstrate List Slicing
-This task extracts the first five elements of a list and reverses them.
+This task uses list slicing to extract the first five elements from a list and then reverses them to display the result.
 
 **Example:**
 ```text
